@@ -1,0 +1,7 @@
+Particle Filter Object Tracking Demo in python
+
+================================================================================
+
+to use:
+- this program recognizes target object by its BGR color.
+  you can set target color changing values of "target_col" object(model_l function).
